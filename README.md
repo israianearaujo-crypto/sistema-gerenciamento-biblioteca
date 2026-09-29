@@ -14,5 +14,5 @@ O Sistema de Gerenciamento de Biblioteca tem como objetivo facilitar o cadastro,
 - Envio de notificações sobre o prazo de devolução;
 - Geração de relatórios dos livros mais emprestados.
 
-- ## Integrante
+  ## Integrante
 - Israiane Araújo
