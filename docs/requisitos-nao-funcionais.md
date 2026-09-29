@@ -1,0 +1,11 @@
+# Requisitos Não Funcionais
+- RNF01: O sistema deve responder às buscas em até 2 segundos para um acervo de até 100.000 livros cadastrados.
+- RNF02: O sistema deve apresentar disponibilidade de 99,5% durante o horário de funcionamento da biblioteca, das 8h às 18h, de segunda a sexta-feira.
+- RNF03: O sistema deve criptografar os dados pessoais dos usuários armazenados utilizando o padrão AES-256.
+- RNF04: A interface do sistema deve ser responsiva e atender às diretrizes de acessibilidade WCAG 2.1 nível AA.
+- RNF05: O sistema deve suportar o acesso simultâneo de pelo menos 500 usuários, mantendo tempo de resposta de até 3 segundos nas operações principais.
+- RNF06: O sistema deve realizar automaticamente um backup completo dos dados uma vez por dia, mantendo os backups armazenados por pelo menos 30 dias.
+- RNF07: O sistema deve exigir autenticação por usuário e senha para permitir o acesso às funcionalidades restritas a usuários cadastrados, bibliotecários e administradores.
+- RNF08: O sistema deve ser compatível com as duas versões mais recentes dos navegadores Google Chrome, Mozilla Firefox e Microsoft Edge.
+- RNF09: O sistema deve garantir a integridade dos dados de empréstimos e devoluções, impedindo o registro parcial de uma operação em caso de falha.
+- RNF10: O sistema deve apresentar mensagens de erro claras e compreensíveis, informando ao usuário o problema ocorrido e, quando possível, a ação necessária para corrigi-lo.
